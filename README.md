@@ -39,7 +39,7 @@ This Jupyter Notebook is designed to interact with the Sleeper Fantasy Football 
 
 ## Usage
 
-1. **Setup League IDs:** Modify the `league_ids` and `seasons` list in the notebook with your specific league IDs and seasons.
+1. **Setup League IDs and Seasons:** Modify the `league_ids` and `seasons` list in the notebook with your specific league IDs and seasons.
 2. **Run the Notebook:** Execute the cells to extract and analyze your league data.
 3. **Visualize Data:** Review the generated charts and graphs to gain insights into league dynamics.
 
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or suggestions, please reach out to [email address](mailto:steven.arbo@icloud.com).
+For questions or suggestions, please reach out to [steven.arbo@icloud.com](mailto:steven.arbo@icloud.com).
 
 ---
 
